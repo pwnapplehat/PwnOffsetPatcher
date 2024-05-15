@@ -1,4 +1,3 @@
 # postBuild
 # Install PyArmor and PyInstaller
 pip install -r requirements.txt
-apt install zip unzip
