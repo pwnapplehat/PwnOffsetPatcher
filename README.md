@@ -22,7 +22,7 @@ PwnOffsetPatcherApp (PwnAppleHat) is a cross-platform desktop application that a
 ## Supported Games
 
 1. PUBG MOBILE 3.4 (GL, KR, VN, TW & IN)
-2. CALL OF DUTY: MOBILE (CODM VN & KR)
+2. CALL OF DUTY: MOBILE (CODM VN 1.8.47 & KR 1.7.47)
 
 ## Installation
 
