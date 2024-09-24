@@ -24,6 +24,15 @@ PwnOffsetPatcherApp (PwnAppleHat) is a cross-platform desktop application that a
 1. PUBG MOBILE 3.4 (GL, KR, VN, TW & IN)
 2. CALL OF DUTY: MOBILE (CODM VN 1.8.47 & KR 1.7.47)
 
+## Usage
+
+1. Firstly, select the Game you want after opening the PwnOffsetPatcherApp.
+2. Select the Game Version.
+3. Then select the available Game Hacks and click Next button.
+4. After clicking Next button, select 'Yes' to automatically start downloading and create custom game hack for you.
+5. If you want to manually select a '.ipa' file of the game you selected, then click 'No' and select the '.ipa' file manually.
+6. If you just want to patch the Binary file of the game you selected, then just click on 'No' and in File selector, in Filter, select 'All files' and select the game binary's file.
+
 ## Installation
 
 ### Windows
