@@ -13,11 +13,16 @@ PwnOffsetPatcherApp (PwnAppleHat) is a cross-platform desktop application that a
 ## How It Works
 
 1. **Game Selection**: Users select the game they wish to modify.
-2. **Version Selection**: Choose the version of the game you have installed (e.g., PUBG MOBILE Global 3.4, CODM VNG 1.8.47).
+2. **Version Selection**: Choose the version of the game you want (e.g., PUBG MOBILE Global 3.4, CODM VNG 1.8.47).
 3. **Hack Selection**: Select the hacks you want to apply from a list of available options.
-4. **Download or Manual File Selection**: The app will either download the game’s `.ipa` file from predefined URLs or allow users to manually select a pre-downloaded `.ipa` or binary file.
+4. **Download or Manual File Selection**: The app will either download the game’s `.ipa` file or allow users to manually select a pre-downloaded `.ipa` or binary file.
 5. **Modification**: Once the `.ipa` is downloaded or selected, the app applies the hacks to the game binary.
 6. **iPA Packaging**: The modified `.ipa` is repackaged and saved to your desktop, ready for installation.
+
+## Supported Games
+
+1. PUBG MOBILE 3.4 (GL, KR, VN, TW & IN)
+2. CALL OF DUTY: MOBILE (CODM VN & KR)
 
 ## Installation
 
