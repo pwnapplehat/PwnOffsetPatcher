@@ -28,12 +28,12 @@ PwnOffsetPatcherApp (PwnAppleHat) is a cross-platform desktop application that a
 
 ### Windows
 
-1. Download the latest `PwnOffsetPatcherApp.exe` from the [releases](https://github.com/YourGitHubUsername/PwnOffsetPatcherApp/releases).
+1. Download the latest `PwnOffsetPatcherApp.exe` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcherApp/releases).
 2. Run the executable file.
 
 ### macOS
 
-1. Download the latest `PwnOffsetPatcherApp.dmg` from the [releases](https://github.com/YourGitHubUsername/PwnOffsetPatcherApp/releases).
+1. Download the latest `PwnOffsetPatcherApp.dmg` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcherApp/releases).
 2. Open the `.dmg` file and move the PwnOffsetPatcherApp to your Applications folder.
 3. Open the PwnOffsetPatcherApp from your Applications folder.
 
