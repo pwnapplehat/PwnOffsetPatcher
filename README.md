@@ -50,9 +50,9 @@ PwnOffsetPatcherApp (PwnAppleHat) is a cross-platform desktop application that a
 
 This project is licensed under the GNU Affero General Public License Version 3 (AGPL-3.0). For more details, see the [LICENSE](LICENSE) file.
 
-## Contact
+## Contributions or Contact
 
-For more information or assistance, feel free to reach out via:
+For more information or assistance, or for contributions, feel free to reach out via:
 
 - [Telegram Channel](https://t.me/pwnapplehat)
 - [Contact @iOS_hAT](https://t.me/iOS_hAT)
