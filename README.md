@@ -1,6 +1,6 @@
-# PwnOffsetPatcherApp
+# What is PwnOffsetPatcher?
 
-PwnOffsetPatcherApp (PwnAppleHat) is a cross-platform desktop application that allows users to apply a variety of hacks to `.ipa` files for popular mobile games like PUBG MOBILE and Call of Duty®: Mobile. This tool automates the process of modifying the game binary with user-selected hacks, making it easier for players to customize their experience.
+PwnOffsetPatcher is a GUI-based utility that allows you to download, modify, and repackage iOS game IPA files or binaries with user-selected hacks. It supports popular iOS games and includes pre-configured hack options that users can apply with just a few clicks.
 
 ## Features
 
