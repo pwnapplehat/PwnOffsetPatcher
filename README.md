@@ -32,8 +32,16 @@ Welcome to the **PwnOffsetPatcherApp** guide! This tool is designed to simplify 
 
 ### Step 1: Download & Install PwnOffsetPatcherApp
 
-- **Download the Installer**: Choose the version of the app that matches your operating system (Windows/macOS). You can find the latest release on the [GitHub Releases](#).
-- **Install the App**: Follow the installation instructions specific to your platform.
+#### Windows
+
+1. Download the latest `PwnOffsetPatcherApp.exe` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
+2. Run the executable file.
+
+#### macOS
+
+1. Download the latest `PwnOffsetPatcherApp.dmg` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
+2. Open the `.dmg` file and move the PwnOffsetPatcherApp to your Applications folder.
+3. Open the PwnOffsetPatcherApp from your Applications folder.
 
 ### Step 2: Launch the App
 
@@ -159,7 +167,7 @@ For more information or assistance, or for contributions, feel free to reach out
 
 - [Telegram Channel](https://t.me/pwnapplehat)
 - [Contact @iOS_hAT](https://t.me/iOS_hAT)
-- For any questions or issues, feel free to [open an issue](#) on GitHub.
+- For any questions or issues, feel free to [open an issue](https://github.com/pwnapplehat/PwnOffsetPatcherApp/issues) on GitHub.
 
 ## Acknowledgements
 
