@@ -144,18 +144,7 @@ Here are some popular hacks available in **PwnOffsetPatcherApp**:
 4. **What happens if I cancel the download?**
    - The tool will automatically delete any partially downloaded files to prevent corruption. You can restart the process at any time.
 
-## Installation
-
-### Windows
-
-1. Download the latest `PwnOffsetPatcherApp.exe` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
-2. Run the executable file.
-
-### macOS
-
-1. Download the latest `PwnOffsetPatcherApp.dmg` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
-2. Open the `.dmg` file and move the PwnOffsetPatcherApp to your Applications folder.
-3. Open the PwnOffsetPatcherApp from your Applications folder.
+---
 
 ## License
 
@@ -168,6 +157,8 @@ For more information or assistance, or for contributions, feel free to reach out
 - [Telegram Channel](https://t.me/pwnapplehat)
 - [Contact @iOS_hAT](https://t.me/iOS_hAT)
 - For any questions or issues, feel free to [open an issue](https://github.com/pwnapplehat/PwnOffsetPatcherApp/issues) on GitHub.
+
+---
 
 ## Acknowledgements
 
