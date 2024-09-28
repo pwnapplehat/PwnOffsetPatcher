@@ -1,6 +1,6 @@
-# PwnOffsetPatcherApp (PwnAppleHat)
+# PwnOffsetPatcher (PwnAppleHat)
 
-Welcome to the **PwnOffsetPatcherApp** guide! This tool is designed to simplify the process of patching iOS game binaries and IPA files. Whether you're looking to apply hacks like **no recoil**, **aimbot**, or **fast bullets** to popular games such as **PUBG Mobile** or **Call of Duty Mobile**, this tool will guide you through the process with an easy-to-use graphical interface.
+Welcome to the **PwnOffsetPatcher** guide! This tool is designed to simplify the process of patching iOS game binaries and IPA files. Whether you're looking to apply hacks like **no recoil**, **aimbot**, or **fast bullets** to popular games such as **PUBG Mobile** or **Call of Duty Mobile**, this tool will guide you through the process with an easy-to-use graphical interface.
 
 ---
 
@@ -28,24 +28,24 @@ Welcome to the **PwnOffsetPatcherApp** guide! This tool is designed to simplify 
 
 ---
 
-## How to Use PwnOffsetPatcherApp
+## How to Use PwnOffsetPatcher
 
-### Step 1: Download & Install PwnOffsetPatcherApp
+### Step 1: Download & Install PwnOffsetPatcher
 
 #### Windows
 
-1. Download the latest `PwnOffsetPatcherApp.exe` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
+1. Download the latest `PwnOffsetPatcher.exe` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
 2. Run the executable file.
 
 #### macOS
 
-1. Download the latest `PwnOffsetPatcherApp.dmg` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
-2. Open the `.dmg` file and move the PwnOffsetPatcherApp to your Applications folder.
-3. Open the PwnOffsetPatcherApp from your Applications folder.
+1. Download the latest `PwnOffsetPatcher.dmg` from the [releases](https://github.com/pwnapplehat/PwnOffsetPatcher/releases).
+2. Open the `.dmg` file and move the PwnOffsetPatcher to your Applications folder.
+3. Open the PwnOffsetPatcher from your Applications folder.
 
 ### Step 2: Launch the App
 
-- Open **PwnOffsetPatcherApp**.
+- Open **PwnOffsetPatcher**.
 - The main window will display several tabs: **Select Game**, **Select Version**, **Select Hacks**, and **Progress**.
 
 ### Step 3: Game Selection
@@ -92,7 +92,7 @@ Welcome to the **PwnOffsetPatcherApp** guide! This tool is designed to simplify 
 
 ## Detailed Overview of Hacks
 
-Here are some popular hacks available in **PwnOffsetPatcherApp**:
+Here are some popular hacks available in **PwnOffsetPatcher**:
 
 ### PUBG Mobile Hacks:
 - **Aimbot 70m** 🎯
@@ -133,7 +133,7 @@ Here are some popular hacks available in **PwnOffsetPatcherApp**:
 ## Frequently Asked Questions
 
 1. **Can I use this tool for any iOS game?**
-   - Currently, PwnOffsetPatcherApp supports specific versions of PUBG Mobile and Call of Duty Mobile. Future updates may add support for more games.
+   - Currently, PwnOffsetPatcher supports specific versions of PUBG Mobile and Call of Duty Mobile. Future updates may add support for more games.
 
 2. **How safe are the hacks?**
    - While the hacks have been tested, use them at your own risk. Game developers actively monitor for cheating, and using hacks could result in account bans.
@@ -156,7 +156,7 @@ For more information or assistance, or for contributions, feel free to reach out
 
 - [Telegram Channel](https://t.me/pwnapplehat)
 - [Contact @iOS_hAT](https://t.me/iOS_hAT)
-- For any questions or issues, feel free to [open an issue](https://github.com/pwnapplehat/PwnOffsetPatcherApp/issues) on GitHub.
+- For any questions or issues, feel free to [open an issue](https://github.com/pwnapplehat/PwnOffsetPatcher/issues) on GitHub.
 
 ---
 
