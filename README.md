@@ -107,6 +107,7 @@ Here are some popular hacks available in **PwnOffsetPatcher**:
 - **Stop Internal Update** 🛑
 - **Pro Scope** 🔭
 - **Speed** ⚡
+- **Many More**
   
 ### Call of Duty Mobile Hacks:
 - **Wallhack** 🔍
@@ -117,6 +118,7 @@ Here are some popular hacks available in **PwnOffsetPatcher**:
 - **Infinite Ammo** ♾️
 - **Fast Scope** 🎯
 - **No Muzzle Flash** 🚫
+- **Many More**
 
 ---
 
